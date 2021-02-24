@@ -1,6 +1,6 @@
 
-### The scope of this project is to develop a SIR Model for CANADA.
-### Simulate the Effectiveness of Lockdown.
+### 1. The scope of this project is to develop a SIR Model for CANADA.
+### 2. Simulate the Effectiveness of Lockdown.
 
 
 SIRModel
