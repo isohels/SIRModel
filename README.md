@@ -1,3 +1,8 @@
+
+### The scope of this project is to develop a SIR Model for CANADA.
+### Simulate the Effectiveness of Lockdown.
+
+
 SIRModel
 ==============================
 
@@ -55,3 +60,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+<img src = "./Images/sirexamplemodel.PNG">
+<img src = "./Images/srtend.PNG">
